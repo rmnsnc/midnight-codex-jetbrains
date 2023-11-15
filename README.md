@@ -1,4 +1,4 @@
-# Midnight Codexfor [JetBrains IDE](https://www.jetbrains.com/)
+# Midnight Codex for [JetBrains IDE](https://www.jetbrains.com/)
 
 [![Build Status](https://dev.azure.com/rmnsnc/midnight-codex/_apis/build/status/midnight-codex.jetbrains?branchName=master)](https://dev.azure.com/rmnsnc/midnight-codex.jetbrains/_build/latest?definitionId=2&branchName=master)
 ![Release](https://img.shields.io/github/release/rmnsnc/midnight-codex-jetbrains.svg)

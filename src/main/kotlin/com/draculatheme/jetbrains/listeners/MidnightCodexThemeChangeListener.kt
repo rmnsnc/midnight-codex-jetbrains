@@ -14,7 +14,7 @@ class MidnightCodexThemeChangeListener : LafManagerListener {
     override fun lookAndFeelChanged(lafManager: LafManager) {
         val currentUI = lafManager.currentLookAndFeel.name
         if (previousUI != currentUI) {
-            if (currentUI == MidnightCodexVariant.MidnightCodex.label || currentUI == MidnightCodexVariant.MidnightCodexAlternative.label) {
+            if (currentUI == MidnightCodexVariant.MidnightCodex.label) {
                 editorColorsManager.globalScheme = editorColorsManager.getScheme("_@user_$currentUI")
             }
         }

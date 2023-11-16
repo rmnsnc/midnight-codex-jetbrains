@@ -9,7 +9,6 @@
         <postStartupActivity implementation="com.MidnightCodexTheme.jetbrains.activities.MidnightCodexStartupActivity"/>
         <notificationGroup displayType="STICKY_BALLOON" id="Midnight CodexTheme" isLogByDefault="true"/>
         <themeProvider id="371dce76-a3c5-4429-91af-41cf86094744" path="/themes/Midnight Codex.theme.json"/>
-        <themeProvider id="ee2824b3-c1d9-44fa-8b64-de6fe5dd8e37" path="/themes/Midnight Codex Alternative.theme.json"/>
     </extensions>
     <applicationListeners>
         <listener class="com.MidnightCodexTheme.jetbrains.listeners.MidnightCodexThemeChangeListener"
